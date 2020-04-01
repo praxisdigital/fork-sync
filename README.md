@@ -1,4 +1,4 @@
-# Fork Sync
+# Fork Sync est
 [![Build](https://github.com/tg908/fork-sync/workflows/PR%20Checks/badge.svg)](https://github.com/tg908/fork-sync/actions?workflow=PR%20Checks)
 ![Version](https://img.shields.io/github/v/release/tg908/fork-sync?style=flat-square)
 
